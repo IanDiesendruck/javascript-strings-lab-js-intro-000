@@ -9,4 +9,3 @@ var greetSpecialGuest = d + specialGuest + "!";
 var topic = "space";
 
 var conversation = `${topic}`;
-
